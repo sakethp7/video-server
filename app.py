@@ -383,7 +383,7 @@ import re
 import glob
 import signal
 import time
-from moviepy.editor import VideoFileClip, concatenate_videoclips
+from moviepy import VideoFileClip, concatenate_videoclips
 import sys
 import traceback
 
